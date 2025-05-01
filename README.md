@@ -1,6 +1,6 @@
 # Speak2Feel
 ## Introduction
-- This repository handles building and training Speech Emotion Recognition System.
+- This repository handles building and training Speech Emotion Recognition System and infused LLM.
 - The basic idea behind this tool is to build and train/test a suited machine learning ( as well as deep learning ) algorithm that could recognize and detects human emotions from speech.
 ## Requirements
 - **Python 3.6+**
