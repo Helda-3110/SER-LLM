@@ -1,0 +1,26 @@
+# Ignore Python virtual environments
+venv/
+myenv/
+.env/
+
+# Ignore audio and dataset files
+*.wav
+*.mp3
+*.flac
+*.csv
+*.json
+__pycache__/
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore compiled files
+*.pyc
+*.pyo
+*.pyd
